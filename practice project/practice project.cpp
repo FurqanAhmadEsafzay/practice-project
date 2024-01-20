@@ -95,7 +95,7 @@ int main()
 			
 			break;
 		case 2:
-		    cout << "\t\t\t1 : set departure time" << endl;
+		    cout << "\t\t\t1 : set departure time carefully" << endl;
 			cout << "\t\t\t2 : dispalay departure time "<< endl;
 			cout << "\t\t\t3 : exit " << endl;
 		    int x;
